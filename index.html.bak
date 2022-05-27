@@ -1,0 +1,33 @@
+<html>    
+<head>    
+<title>Home</title>    
+</head>    
+
+<!---Content starts here -->      
+<body style="size:1040px;height:960px;background:url('background.jpg');"> 
+<header style="background-color:red">
+<h1 align="center"> ILO-ILO CITY</h1>
+</header>
+
+
+<!---Your first table starts here -->  
+<center>
+<img src="logo.png">
+</center>
+<br>   
+<table border="1">
+<table bgcolor="Green">   
+<td width="1400"> 
+<h1><Font color="black">ABOUT ILO-ILO</h1> 
+<p style="text-align:justify">Iloilo is a major travel and heritage destination located in heart-shaped Panay Island in Central Philippines. Its fertile land nourished a people, the Ilonggos, who are distinguished for the warm and romantic song-like melody of their spoken language, Hiligaynon. Iloilo is often called as the “Heart of the Philippines.” This is especially true in its multifaceted collection of tourist spots and attractions. Iloilo’s rich heritage is showcased in its delicious cuisine, treasured historical buildings, cultural traditions, captivating natural landscapes, and in many exciting festivals celebrated throughout the province. Intrepid travelers who come to visit often discover that all the best reasons, why travelers love to visit the Philippines, can be experienced in Iloilo.</p>
+<p style="text-align:justify">Iloilo can be reached on direct flights from major Philippine cities including Manila, Cebu, Davao, General Santos , Puerto Princesa, and Cagayan de Oro. Direct international flights are also available from Hong Kong and Singapore to the Iloilo Airport. By plane, travel time to Iloilo takes around 1 hour from Manila, 30 minutes from Cebu, 2 hours and 30 minutes from Hong Kong, and 3 hours and 30 minutes from Singapore.</p>    
+</td>    
+</table>   
+</font>    
+</html>
+
+
+
+
+
+
