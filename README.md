@@ -1,2 +1,2 @@
 # Rosenas
-A Mobile Gamer, I love UNLIWINGS
+A Mobile Gamer, I love UNLIWINGS. Nakatira ako sa El Nido. Mahilig ako kumain sa mga pangmalakasan katulad ng UNLI WINGS. Isa akong mobile gamer, dati akong sumasali sa mga malaking tournament sa PALAWAN. at ang pinakahuli kong sali na huli ko na ring laro ay ang FIRST TOURNAMENT sa SM PUERTO PRINCESA na nagchampion kami laban sa mga malalakas na player sa PALAWAN. Ang laro ko dati ay MOBILE LEGENDS, pero iniwan ko na ito at PUBG MOBILE ang aking ipinalit ngayon
